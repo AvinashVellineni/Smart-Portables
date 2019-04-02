@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<!-- <ConsoleCatalog>
+    <console id="Xbox One">
+        <name>Xbox One</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>       
+    </console>
+    <console id="xbox360">
+        <name>xbox360</name>
+        <price>399.99</price>
+        <image>xbox360.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+
+    <console id="PS4">
+        <name>PS4</name>
+        <price>349.99</price>
+        <image>PS4-console-bundle.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+    <console id="PS3">
+        <name>PS3</name>
+        <price>349.99</price>
+        <image>ps3.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+    <console id="WII">
+        <name>WII</name>
+        <price>249.99</price>
+        <image>Wii-Console.png</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+</ConsoleCatalog>
+
+<TabletCatalog>
+    <tablet id="ipad">
+        <name>Apple Ipad Pro</name>
+        <price>189.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="ipad3">
+        <name>Apple Ipad 3</name>
+        <price>189.99</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="Surface">
+        <name>Surface</name>
+        <price>299.99</price>
+        <image>m1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Surface4">
+        <name>Surface Pro 4</name>
+        <price>299.99</price>
+        <image>m2.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Samsung2">
+        <name>Samsung Tab 2</name>
+        <price>150.99</price>
+        <image>s1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+</TabletCatalog>
+<GamesCatalog>
+<game id="g1">
+        <name>FIFA 2016</name>
+        <price>50.99</price>
+        <image>ea_fifa.jpg</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+<game id="g2">
+        <name>Need for Speed</name>
+        <price>50.99</price>
+        <image>ea_nfs.jpg</image>
+        <manufacturer>ElectronicArts</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</game>
+<game id="g3">
+        <name>Call Of Duty</name>
+        <price>50.99</price>
+        <image>activision_cod.jpg</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+<game id="g4">
+        <name>Evolve</name>
+        <price>50.99</price>
+        <image>tti_evolve.jpg</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+</GamesCatalog> -->
+
+<AccessoryCatalog>
+
+    <!-- <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory> -->
+
+
+
+
+
+
+
+     <accessory id="Samsung">
+        <name>Samsung</name>
+        <price>9.99</price>
+        <image>Samsung.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+
+     <accessory id="PICTEKMouse">
+        <name>PICTEKMouse</name>
+        <price>29.99</price>
+        <image>PICTEKMouse.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+
+     <accessory id="WDBlue4TB">
+        <name>WDBlue4TB</name>
+        <price>89.99</price>
+        <image>WDBlue4TB.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+	 
+    <accessory id="Ram8GB">
+        <name>Ram8GB</name>
+        <price>59.99</price>
+        <image>Ram8GB.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+     <accessory id="ScreenProtector">
+        <name>ScreenProtector</name>
+        <price>12.99</price>
+        <image>ScreenProtector.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+      <accessory id="warranty">
+        <name>warranty</name>
+        <price>10.99</price>
+        <image>warranty.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+</AccessoryCatalog>
+
+
+
+
+<LaptopCatalog>
+    <laptop id="AcerE15">
+        <name>AcerE15</name>
+        <price>189.99</price>
+        <image>AcerE15.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="AcerR13">
+        <name>AcerR13</name>
+        <price>189.99</price>
+        <image>AcerR13.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="ASUSC320">
+        <name>ASUSC320</name>
+        <price>299.99</price>
+        <image>ASUSC320.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="HPSVA">
+        <name>HPSVA</name>
+        <price>299.99</price>
+        <image>HPSVA.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+     <laptop id="Dell13500">
+        <name>Dell13500</name>
+        <price>499.99</price>
+        <image>Dell13500.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="DELL3565">
+        <name>DELL3565</name>
+        <price>189.99</price>
+        <image>DELL3565.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="HP8250U">
+        <name>HP8250U</name>
+        <price>299.99</price>
+        <image>HP8250U.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="HPN3710">
+        <name>HPN3710</name>
+        <price>299.99</price>
+        <image>HPN3710.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+   <laptop id="Lenovo7200U">
+        <name>Lenovo7200U</name>
+        <price>299.99</price>
+        <image>Lenovo7200U.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="LenovoN3350">
+        <name>LenovoN3350</name>
+        <price>299.99</price>
+        <image>LenovoN3350.jpg</image>
+        <manufacturer>laptops</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+        <accessories>
+            <accessory>Samsung</accessory>
+            <accessory>PICTEKMouse</accessory>
+            <accessory>WDBlue4TB</accessory>
+            <accessory>Ram8GB</accessory>
+            <accessory>ScreenProtector</accessory>
+            <accessory>warranty</accessory>
+        </accessories>
+    </laptop>
+</LaptopCatalog>
+
+<SpeakerCatalog>
+    <speaker id="ANKER">
+        <name>ANKER</name>
+        <price>189.99</price>
+        <image>ANKER.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+    </speaker>
+    <speaker id="Bose">
+        <name>Bose</name>
+        <price>189.99</price>
+        <image>Bose.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+    </speaker>
+    <speaker id="Bose360">
+        <name>Bose360</name>
+        <price>299.99</price>
+        <image>Bose360.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+    <speaker id="Echo2G">
+        <name>Echo2G</name>
+        <price>299.99</price>
+        <image>Echo2G.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+     <speaker id="Marshall">
+        <name>Marshall</name>
+        <price>189.99</price>
+        <image>Marshall.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+    <speaker id="SonosPlay">
+        <name>SonosPlay</name>
+        <price>189.99</price>
+        <image>SonosPlay.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+    <speaker id="Soundcore360">
+        <name>Soundcore360</name>
+        <price>299.99</price>
+        <image>Soundcore360.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+    <speaker id="SoundcoreMotion">
+        <name>SoundcoreMotion</name>
+        <price>299.99</price>
+        <image>SoundcoreMotion.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+   <speaker id="VAUX">
+        <name>VAUX</name>
+        <price>299.99</price>
+        <image>VAUX.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+    <speaker id="UltimateEars">
+        <name>UltimateEars</name>
+        <price>299.99</price>
+        <image>UltimateEars.jpg</image>
+        <manufacturer>speakers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </speaker>
+</SpeakerCatalog>
+
+<PhoneCatalog>
+    <phone id="Apple6">
+        <name>Apple6</name>
+        <price>189.99</price>
+        <image>Apple6.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+    </phone>
+    <phone id="BLUR2">
+        <name>BLUR2</name>
+        <price>189.99</price>
+        <image>BLUR2.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+    </phone>
+    <phone id="Essential128">
+        <name>Essential128</name>
+        <price>299.99</price>
+        <image>Essential128.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+    <phone id="Honor7X">
+        <name>Honor7X</name>
+        <price>299.99</price>
+        <image>Honor7X.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+     <phone id="HuaweiP20">
+        <name>HuaweiP20</name>
+        <price>189.99</price>
+        <image>HuaweiP20.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+    <phone id="LeEco">
+        <name>LeEco</name>
+        <price>189.99</price>
+        <image>LeEco.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+    <phone id="MotoG6">
+        <name>MotoG6</name>
+        <price>299.99</price>
+        <image>MotoG6.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+    <phone id="Nokia6.1">
+        <name>Nokia6.1</name>
+        <price>299.99</price>
+        <image>Nokia6.1.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+   <phone id="SamsungS7">
+        <name>SamsungS7</name>
+        <price>299.99</price>
+        <image>SamsungS7.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+    <phone id="SamsungS9">
+        <name>SamsungS9</name>
+        <price>299.99</price>
+        <image>SamsungS9.jpg</image>
+        <manufacturer>phones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </phone>
+</PhoneCatalog>
+
+<TrackerCatalog>
+    <tracker id="3GTracker">
+        <name>3GTracker</name>
+        <price>189.99</price>
+        <image>3GTracker.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+    <tracker id="Findster">
+        <name>Findster</name>
+        <price>189.99</price>
+        <image>Findster.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+    <tracker id="GPSPetTracker">
+        <name>GPSPetTracker</name>
+        <price>299.99</price>
+        <image>GPSPetTracker.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+    <tracker id="MiniSpy">
+        <name>MiniSpy</name>
+        <price>299.99</price>
+        <image>MiniSpy.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+     <tracker id="SmartTag">
+        <name>SmartTag</name>
+        <price>189.99</price>
+        <image>SmartTag.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+    <tracker id="SOSTracker">
+        <name>SOSTracker</name>
+        <price>189.99</price>
+        <image>SOSTracker.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+    <tracker id="SPHP">
+        <name>SPHP</name>
+        <price>299.99</price>
+        <image>SPHP.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+    <tracker id="SpyMini">
+        <name>SpyMini</name>
+        <price>299.99</price>
+        <image>SpyMini.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+   <tracker id="Tabcat">
+        <name>Tabcat</name>
+        <price>299.99</price>
+        <image>Tabcat.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+    <tracker id="Whistle3">
+        <name>Whistle3</name>
+        <price>299.99</price>
+        <image>Whistle3.jpg</image>
+        <manufacturer>trackers</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </tracker>
+</TrackerCatalog>
+
+<FitnessWatchCatalog>
+    <fitnesswatch id="AeifondTracker">
+        <name>AeifondTracker</name>
+        <price>189.99</price>
+        <image>AeifondTracker.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+    <fitnesswatch id="AkutiTracker">
+        <name>AkutiTracker</name>
+        <price>189.99</price>
+        <image>AkutiTracker.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+    <fitnesswatch id="CoffeaH7">
+        <name>CoffeaH7</name>
+        <price>299.99</price>
+        <image>CoffeaH7.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+    <fitnesswatch id="CoffeaTracker">
+        <name>CoffeaTracker</name>
+        <price>299.99</price>
+        <image>CoffeaTracker.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+     <fitnesswatch id="FitbitBlaze">
+        <name>FitbitBlaze</name>
+        <price>149.99</price>
+        <image>FitbitBlaze.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+    <fitnesswatch id="FitbitCharge2">
+        <name>FitbitCharge2</name>
+        <price>189.99</price>
+        <image>FitbitCharge2.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+    <fitnesswatch id="GarminTracker">
+        <name>GarminTracker</name>
+        <price>299.99</price>
+        <image>GarminTracker.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+    <fitnesswatch id="KEEPONFITTracker">
+        <name>KEEPONFITTracker</name>
+        <price>299.99</price>
+        <image>KEEPONFITTracker.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+   <fitnesswatch id="LETSCOMTracker">
+        <name>LETSCOMTracker</name>
+        <price>299.99</price>
+        <image>LETSCOMTracker.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+    <fitnesswatch id="WillfulTracker">
+        <name>WillfulTracker</name>
+        <price>299.99</price>
+        <image>WillfulTracker.jpg</image>
+        <manufacturer>fitnesswatches</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </fitnesswatch>
+</FitnessWatchCatalog>
+
+<SmartWatchCatalog>
+    <smartwatch id="Amazfit">
+        <name>Amazfit</name>
+        <price>189.99</price>
+        <image>Amazfit.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+    <smartwatch id="ASOON">
+        <name>ASOON</name>
+        <price>189.99</price>
+        <image>ASOON.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+    <smartwatch id="CNPGD">
+        <name>CNPGD</name>
+        <price>299.99</price>
+        <image>CNPGD.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+    <smartwatch id="Garmin5Plus">
+        <name>Garmin5Plus</name>
+        <price>299.99</price>
+        <image>Garmin5Plus.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+     <smartwatch id="SamsungGearS2">
+        <name>SamsungGearS2</name>
+        <price>189.99</price>
+        <image>SamsungGearS2.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+    <smartwatch id="SamsungGearS3">
+        <name>SamsungGearS3</name>
+        <price>189.99</price>
+        <image>SamsungGearS3.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+    <smartwatch id="TicwatchE2">
+        <name>TicwatchE2</name>
+        <price>299.99</price>
+        <image>TicwatchE2.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+    <smartwatch id="TicwatchSKinght">
+        <name>TicwatchSKinght</name>
+        <price>299.99</price>
+        <image>TicwatchSKinght.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+   <smartwatch id="Topffy">
+        <name>Topffy</name>
+        <price>49.99</price>
+        <image>Topffy.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+    <smartwatch id="WJPILIS">
+        <name>WJPILIS</name>
+        <price>299.99</price>
+        <image>WJPILIS.jpg</image>
+        <manufacturer>smartwatchs</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </smartwatch>
+</SmartWatchCatalog>
+
+<HeadPhoneCatalog>
+    <headphone id="Actionpie">
+        <name>Actionpie</name>
+        <price>189.99</price>
+        <image>Actionpie.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+    <headphone id="AILIHEN160">
+        <name>AILIHEN160</name>
+        <price>189.99</price>
+        <image>AILIHEN160.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+    <headphone id="AppleEarPods">
+        <name>AppleEarPods</name>
+        <price>299.99</price>
+        <image>AppleEarPods.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+    <headphone id="BeastX">
+        <name>BeastX</name>
+        <price>299.99</price>
+        <image>BeastX.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+     <headphone id="Bose35">
+        <name>Bose35</name>
+        <price>189.99</price>
+        <image>Bose35.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+    <headphone id="Mpow059">
+        <name>Mpow059</name>
+        <price>189.99</price>
+        <image>Mpow059.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+    <headphone id="MpowIPX7">
+        <name>MpowIPX7</name>
+        <price>299.99</price>
+        <image>MpowIPX7.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+    <headphone id="PonotoGalaxy">
+        <name>PonotoGalaxy</name>
+        <price>39.99</price>
+        <image>PonotoGalaxy.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+   <headphone id="SonyMDRZX110">
+        <name>SonyMDRZX110</name>
+        <price>299.99</price>
+        <image>SonyMDRZX110.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+    <headphone id="TNSO">
+        <name>TNSO</name>
+        <price>299.99</price>
+        <image>TNSO.jpg</image>
+        <manufacturer>headphones</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </headphone>
+</HeadPhoneCatalog>
+
+<VirtualRealityCatalog>
+    <virtualreality id="EchoDot">
+        <name>EchoDot</name>
+        <price>189.99</price>
+        <image>EchoDot.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+    <virtualreality id="HTCVIVE">
+        <name>HTCVIVE</name>
+        <price>189.99</price>
+        <image>HTCVIVE.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+    <virtualreality id="Imagistra360">
+        <name>Imagistra360</name>
+        <price>299.99</price>
+        <image>Imagistra360.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+    <virtualreality id="LenovoMirage">
+        <name>LenovoMirage</name>
+        <price>299.99</price>
+        <image>LenovoMirage.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+     <virtualreality id="OculusGo">
+        <name>OculusGo</name>
+        <price>189.99</price>
+        <image>OculusGo.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+    <virtualreality id="OculusReality">
+        <name>OculusReality</name>
+        <price>189.99</price>
+        <image>OculusReality.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+    <virtualreality id="Pansonite3D">
+        <name>Pansonite3D</name>
+        <price>299.99</price>
+        <image>Pansonite3D.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+    <virtualreality id="SamsungGear">
+        <name>SamsungGear</name>
+        <price>299.99</price>
+        <image>SamsungGear.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+   <virtualreality id="VeeROasis">
+        <name>VeeROasis</name>
+        <price>299.99</price>
+        <image>VeeROasis.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+    <virtualreality id="VRRealFeel">
+        <name>VRRealFeel</name>
+        <price>299.99</price>
+        <image>VRRealFeel.jpg</image>
+        <manufacturer>virtualrealities</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+    </virtualreality>
+</VirtualRealityCatalog>
+</ProductCatalog>
